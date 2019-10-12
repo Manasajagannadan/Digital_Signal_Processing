@@ -1,2 +1,3 @@
 # Digital_Signal_Processing
 Performing Digital Signal Processing Techniques with PYTHON Programming
+Run all the codes placed in .zip format
